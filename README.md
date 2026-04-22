@@ -136,8 +136,9 @@ CREATE TABLE zepto (
 
 MIT — feel free to fork, star, and use in your portfolio.
 
+----
 
-## **mapped  SQL queries to their specific **Industry Impact**.**
+## **Mapped  SQL queries to their specific **Industry Impact**.**
 
 ### **Business Value Mapping: From SQL to Strategy**
 
