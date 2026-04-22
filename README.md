@@ -137,11 +137,7 @@ CREATE TABLE zepto (
 MIT — feel free to fork, star, and use in your portfolio.
 
 
-
-
-
-
-**mapped  SQL queries to their specific **Industry Impact**.**
+## **mapped  SQL queries to their specific **Industry Impact**.**
 
 ### **Business Value Mapping: From SQL to Strategy**
 
@@ -155,11 +151,3 @@ MIT — feel free to fork, star, and use in your portfolio.
 | **Q9** | **Data Governance** | Ensures the "Single Source of Truth." In industry, bad data leads to bad decisions. This query acts as a shield against pricing errors or negative stock bugs. |
 | **Q12** | **Merchandising** | Decides "App Placement." The highest-discounted products per category are usually placed at the top of the app (the "Digital Shelf") to increase Click-Through Rate (CTR). |
 | **Q16** | **Pareto (80/20) Analysis** | **Resource Allocation:** Tells the business to focus 80% of their effort on the "Vital Few" products (Top 20%) that generate the most value. |
-
-
-
-
-
-
-## 💡 Thanks for checking out the project! Your support means a lot — feel free to star ⭐ this repo or share it with someone learning SQL.🚀
-
