@@ -140,6 +140,33 @@ MIT — feel free to fork, star, and use in your portfolio.
 
 
 
+Now I have a thorough understanding of the dataset. Let me build a comprehensive, impressive PostgreSQL project document.Here's the complete breakdown of everything in the interactive guide above:
+
+---
+
+**Dataset overview** — The Zepto dataset has 3,732 grocery products across 14 categories (Cooking Essentials and Munchies dominate with 514 each), 9 columns with zero nulls, and 453 out-of-stock products (~12%). Prices are stored in paise so you divide by 100 to get ₹.
+
+---
+
+**The 11 questions are organized in three tiers:**
+
+**Basic (Q1–Q3)** — Table creation with proper schema design, full data profiling using window functions inside aggregates, and a stockout rate analysis using `HAVING`. These establish you know SQL fundamentals and data quality thinking.
+
+**Intermediate (Q4–Q7)** — Price tier segmentation with `CASE WHEN`, top-N per group using `RANK() OVER (PARTITION BY...)`, price-per-gram value analysis with `NULLIF` for safe division, and a revenue-at-risk calculation using the `FILTER` clause for conditional aggregation. These show business thinking and intermediate window function skill.
+
+**Advanced (Q8–Q11)** — Discount quartile bucketing with `NTILE()`, a Pareto/80-20 analysis with running totals using proper frame clauses (`ROWS BETWEEN UNBOUNDED PRECEDING...`), a parameterized stored function with a custom urgency score, and finally a materialized view with `PERCENTILE_CONT` for a BI dashboard. These are the questions that make interviewers lean forward.
+
+---
+
+**What makes this resume-worthy:**
+- It solves a real business problem (quick-commerce inventory, pricing, and discount strategy for a company like Zepto/Blinkit/Swiggy Instamart)
+- Every query has a business interpretation you can narrate, not just technical syntax
+- It covers the full stack: DDL → DML → aggregations → window functions → stored procedures → performance optimization
+
+Click each question card to expand the SQL and the interview tip. Use the tabs to filter by difficulty level.
+
+
+
 
 
 
