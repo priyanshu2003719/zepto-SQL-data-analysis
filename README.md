@@ -137,11 +137,15 @@ CREATE TABLE zepto (
 MIT — feel free to fork, star, and use in your portfolio.
 
 
+
+
+
+
 **mapped  SQL queries to their specific **Industry Impact**.**
 
 ### **Business Value Mapping: From SQL to Strategy**
 
-| Query # | Analytical Focus | Industry Help / Business Value |
+| Query  | Analytical Focus | Industry Help / Business Value |
 | :--- | :--- | :--- |
 | **Q1, Q5, Q15** | **Discount & Pricing Strategy** | Helps Marketing teams identify "Hero Products" for ads and evaluate if aggressive discounting is actually driving the category or just hurting margins. |
 | **Q2, Q10, Q14** | **Revenue Loss & Stockouts** | **Crucial for Operations:** Quantifies "Lost Opportunity." It tells the warehouse exactly how much money was lost because a high-demand item wasn't on the shelf. |
